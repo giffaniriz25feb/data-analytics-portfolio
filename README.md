@@ -51,7 +51,7 @@ I am particularly interested in applying **statistical analysis, machine learnin
 
 ### 🗄 Database Systems
 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
@@ -178,8 +178,8 @@ Database system design project focused on building a structured database for ret
 - Database schema design  
 - SQL implementation for operational data management  
 
-### 🛠 Technologies
-SQL • Database Design • ER Modeling
+Technologies:
+MySQL • SQL • Database Design • ER Modeling
 
 ---
 
