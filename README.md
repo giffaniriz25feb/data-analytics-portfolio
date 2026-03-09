@@ -32,11 +32,11 @@ I am particularly interested in applying **statistical analysis, machine learnin
 
 ---
 
-### 📊 Data Analysis
+### 📊 Data Analysis & Statistical Modeling
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-4B8BBE?style=for-the-badge)
 ![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-2E86C1?style=for-the-badge)
+![Time Series](https://img.shields.io/badge/Time%20Series%20Analysis-FF6F00?style=for-the-badge)
 
 ---
 
@@ -49,11 +49,27 @@ I am particularly interested in applying **statistical analysis, machine learnin
 
 ---
 
+### 🗄 Database Systems
+
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+
+---
+
+### 📈 Statistical Software
+
+![SPSS](https://img.shields.io/badge/SPSS-CC0000?style=for-the-badge)
+![Minitab](https://img.shields.io/badge/Minitab-2C8EBB?style=for-the-badge)
+![SAS](https://img.shields.io/badge/SAS-1F4E79?style=for-the-badge)
+
+---
+
 ### ⚙️ Data Processing & Automation
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![PDF Parsing](https://img.shields.io/badge/PDF%20Parsing-A81D33?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Data%20Automation-FF8C00?style=for-the-badge)
+![Data Automation](https://img.shields.io/badge/Data%20Automation-FF8C00?style=for-the-badge)
 
 ---
 
@@ -62,7 +78,6 @@ I am particularly interested in applying **statistical analysis, machine learnin
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ---
 
 # 📂 Project Portfolio
