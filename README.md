@@ -185,17 +185,31 @@ MySQL • SQL • Database Design • ER Modeling
 
 # 🏢 Professional Experience
 
+### 🎓 Assistant Lecturer – Statistical Data Analysis  
+Institut Teknologi Sepuluh Nopember (ITS)
+
+Supported teaching and practicum sessions for undergraduate students in statistical data analysis.
+
+Responsibilities included guiding students in applying statistical techniques, assisting with data analysis using statistical software, and supporting course instruction in computer laboratory sessions.
+
+Key Focus:
+- Statistical data analysis
+- Data interpretation and visualization
+- Practical implementation using statistical software
+
+---
+
 ### 🏭 Perum BULOG  
 Operations & Logistics Intern
 
-Exposure to **national food logistics and supply chain operations**, supporting operational monitoring and data management processes.
+Exposure to **national food logistics and supply chain operations**, supporting operational monitoring and data management processes within BULOG's logistics system.
 
 ---
 
 ### 🚢 PT PELNI (Persero)  
 Commercial & Passenger Transport Operations Intern
 
-Worked with operational teams to process voyage data, analyze operational records, and develop **automation systems for logistics reporting**.
+Worked with operational teams to process voyage data, analyze operational records, and develop **automation systems for logistics reporting** to support operational monitoring.
 
 ---
 
