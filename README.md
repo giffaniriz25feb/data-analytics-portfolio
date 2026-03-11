@@ -200,7 +200,7 @@ Key Focus:
 ---
 
 ### 🏭 Perum BULOG  
-Operations & Logistics Intern
+Operations & Logistics Analyst Intern
 
 Exposure to **national food logistics and supply chain operations**, supporting operational monitoring and data management processes within BULOG's logistics system.
 
